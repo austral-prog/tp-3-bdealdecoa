@@ -1,10 +1,12 @@
 def slice_simple():
     TXT = "Awesome"
-    txt = TXT.lower
-    
-    print(txt[0:2])
-    print(txt[2:4])
-    print(txt)
+    txt = TXT.lower()
+
+    print(txt[0:3])  # awe
+    print(txt[2:5])  # eso
+    print(txt)       # awesome
+
+slice_simple()
     # Código a implementar, se debe utilizar la variable 'texto' para resolver el ejercicio.
     # No se debe modificar la definición de la función, ni ingresar otro valor mediante input.
 
