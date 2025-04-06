@@ -1,13 +1,14 @@
 def slice_advanced():
-    texto: "Hello World!"
-    
-    print(texto[2:0:2])
-    
-    numero: "12345678910"
-    
-    print(numero[2:0:2])
+    texto = "Hello, World!"
+    print(texto[4:13:2])  
 
-slice_advanced
+    numero = "12345678910"
+    print(numero[4:11:2]) 
+
+slice_advanced()
+
+
+
     # Código a implementar utilizando input.
 
 # Para verificar este ejercicio ejecutar el comando
