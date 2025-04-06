@@ -9,6 +9,7 @@ slice_advanced()
 
 
 
+
     # Código a implementar utilizando input.
 
 # Para verificar este ejercicio ejecutar el comando
